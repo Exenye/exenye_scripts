@@ -4,7 +4,6 @@ A collection of professional-grade ReaScript tools for REAPER, focusing on intui
 
 ## Author Information
 - **Developer:** Exenye (Wieland Müller)
-- **Contact:** wieland@exenye.com
 - **Support:** [Ko-fi](https://ko-fi.com/exenye)
 - **Website:** [exenye.com](https://exenye.com/)
 - **Forum Profile:** [REAPER Community](https://forum.cockos.com/member.php?u=165083)
