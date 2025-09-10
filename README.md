@@ -59,6 +59,7 @@ Media item manipulation and organization - **Free to use, modify and distribute*
 Region and marker management - **Free to use, modify and distribute**
 - Sound design variation counting
 - Region expansion tools
+- UCS Cat ID Swap Randomizer
 
 ### Tools (3 scripts)
 Advanced UI-based professional tools - **Copyright protected**
@@ -105,7 +106,6 @@ Categories: General, Item, Region
 ### Professional Tools (3 scripts)  
 Category: Tools
 **License:** Copyright (C) 2024 Exenye / Wieland Müller. All rights reserved.
-**Contact:** wieland@exenye.com
 
 ## Support & Updates
 
