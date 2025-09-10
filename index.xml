@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index version="1" name="Exenye Scripts" commit="initial">
+  <!-- GENERAL SCRIPTS -->
+  <category name="General">
+    <reapack name="Exenye_GENERAL - Activate or deactivate looping for all current project tabs.lua" type="script" desc="Toggle loop on/off for all open projects based on user input">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">General/Exenye_GENERAL - Activate or deactivate looping for all current project tabs.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Toggle loop on/off for all open projects based on user input. Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_GENERAL - Change the color of all tracks to a rainbow pattern.lua" type="script" desc="Colors all tracks in the current project with a rainbow gradient">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">General/Exenye_GENERAL - Change the color of all tracks to a rainbow pattern.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Colors all tracks in the current project with a rainbow gradient. Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_GENERAL - Delete all items and regions outside of time selection and delete empty tracks.lua" type="script" desc="Crop to time selection, keep original positions and delete empty tracks">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">General/Exenye_GENERAL - Delete all items and regions outside of time selection and delete empty tracks.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Crop to time selection, keep original positions and delete empty tracks. Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_GENERAL - Delete all items and regions outside of time selection.lua" type="script" desc="Crop to time selection, keep original positions">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">General/Exenye_GENERAL - Delete all items and regions outside of time selection.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Crop to time selection, keep original positions. Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_GENERAL - Render all open project tabs with latest render settings.lua" type="script" desc="Render all open projects sequentially with overwrite enabled">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">General/Exenye_GENERAL - Render all open project tabs with latest render settings.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Render all open projects sequentially with overwrite enabled. Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+  </category>
+
+  <!-- ITEM SCRIPTS -->
+  <category name="Item">
+    <reapack name="Exenye_ITEM - Align left edge of selected media items to same start position while keeping phase alignment.lua" type="script" desc="Align left edge of selected media items to same start position while keeping phase alignment">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">Item/Exenye_ITEM - Align left edge of selected media items to same start position while keeping phase alignment.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_ITEM - Clone paste item parameters.lua" type="script" desc="Clone paste item parameters">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">Item/Exenye_ITEM - Clone paste item parameters.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_ITEM - Clone save item parameters.lua" type="script" desc="Clone save item parameters">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">Item/Exenye_ITEM - Clone save item parameters.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_ITEM - Count all items on all tracks and rename tracks with the number of items.lua" type="script" desc="Count all items on all tracks and rename tracks with the number of items">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">Item/Exenye_ITEM - Count all items on all tracks and rename tracks with the number of items.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_ITEM - Move all selected items to new seperated tracks vertically.lua" type="script" desc="Move all selected items to new seperated tracks vertically">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">Item/Exenye_ITEM - Move all selected items to new seperated tracks vertically.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_ITEM - Move all selected items to same start position.lua" type="script" desc="Move all selected items to same start position">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">Item/Exenye_ITEM - Move all selected items to same start position.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_ITEM - Rename selected items after nearby region.lua" type="script" desc="Rename selected items after nearby region">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">Item/Exenye_ITEM - Rename selected items after nearby region.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_ITEM - Select all items containing FX.lua" type="script" desc="Select all items containing FX">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">Item/Exenye_ITEM - Select all items containing FX.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_ITEM - Select all items containing no FX.lua" type="script" desc="Select all items containing no FX">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">Item/Exenye_ITEM - Select all items containing no FX.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_ITEM - Select all items that do contain certain words.lua" type="script" desc="Select all items that do contain certain words">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">Item/Exenye_ITEM - Select all items that do contain certain words.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_ITEM - Select all items that do not contain certain words.lua" type="script" desc="Select all items that do not contain certain words">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">Item/Exenye_ITEM - Select all items that do not contain certain words.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_ITEM - Set track channel to item channel.lua" type="script" desc="Set track channel to item channel">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">Item/Exenye_ITEM - Set track channel to item channel.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_ITEM - Split selected item in multiple parts with equal length.lua" type="script" desc="Split selected item in multiple parts with equal length">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">Item/Exenye_ITEM - Split selected item in multiple parts with equal length.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_ITEM - Toggle move playhead to automation item.lua" type="script" desc="Toggle move playhead to automation item">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">Item/Exenye_ITEM - Toggle move playhead to automation item.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+  </category>
+
+  <!-- REGION SCRIPTS -->
+  <category name="Region">
+    <reapack name="Exenye_REGION - Count all single sound design variations within all regions.lua" type="script" desc="Count all single sound design variations within all regions">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">Region/Exenye_REGION - Count all single sound design variations within all regions.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_REGION - Expand all regions by custom time amount.lua" type="script" desc="Expand all regions by custom time amount">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">Region/Exenye_REGION - Expand all regions by custom time amount.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Free to use, modify and distribute.]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+  </category>
+
+  <!-- TOOL SCRIPTS (Copyright) -->
+  <category name="Tools">
+    <reapack name="Exenye_TOOL - FXChainManager Lite.lua" type="script" desc="Advanced FX chain management and workflow optimization">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release
+- Apply FX chains to tracks and items
+- Save current FX chains
+- Auto/Manual application modes
+- Replace or append FX options
+- Chain preview and management
+- Professional UI with ReaImGui]]></changelog>
+        <source main="main">Tools/Exenye_TOOL - FXChainManager Lite.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Professional FX Chain Manager with auto-apply functionality
+
+Features:
+- Apply FX chains to tracks and items
+- Save current FX chains
+- Auto/Manual application modes
+- Replace or append FX options
+- Chain preview and management
+
+Requirements:
+- REAPER v6.0+
+- ReaImGui extension
+- SWS/S&M Extensions (for some features)
+
+Copyright (C) 2024 Exenye / Wieland Müller. All rights reserved.
+Contact: wieland@exenye.com]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_TOOL - FXManager Lite.lua" type="script" desc="FX Manager with multi-selection, copy/paste and delete functionality for track effects">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release
+- Multi-selection of FX with Ctrl+Click
+- Copy/Paste FX between tracks and items
+- Delete multiple FX at once
+- Insert new FX via context menu
+- Professional UI with dark theme
+- Context menu integration]]></changelog>
+        <source main="main">Tools/Exenye_TOOL - FXManager Lite.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Professional FX Manager with multi-selection capabilities
+
+Features:
+- Multi-selection with Ctrl+Click
+- Copy/Paste FX between tracks and items
+- Delete multiple FX at once
+- Floating FX UI management
+- Insert new FX directly from context menu
+- Auto-refresh and smart target detection
+
+Requirements:
+- REAPER v6.0+
+- ReaImGui extension
+
+Copyright (C) 2024 Exenye / Wieland Müller. All rights reserved.
+Contact: wieland@exenye.com]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+
+    <reapack name="Exenye_TOOL - SourceReplacer Lite.lua" type="script" desc="Source replacement tool for media items">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">Tools/Exenye_TOOL - SourceReplacer Lite.lua</source>
+      </version>
+      <metadata>
+        <description><![CDATA[Source replacement tool for media items
+
+Requirements:
+- REAPER v6.0+
+- ReaImGui extension
+
+Copyright (C) 2024 Exenye / Wieland Müller. All rights reserved.
+Contact: wieland@exenye.com]]></description>
+        <link rel="website">https://exenye.com/</link>
+        <link rel="donation">https://ko-fi.com/exenye</link>
+      </metadata>
+    </reapack>
+  </category>
+
+  <!-- Repository Metadata -->
+  <metadata>
+    <description><![CDATA[Exenye Scripts Repository
+
+A collection of professional-grade ReaScript tools for REAPER, focusing on intuitive UI design and enhanced workflow efficiency.
+
+Author: Exenye (Wieland Müller)
+Contact: wieland@exenye.com
+Support: https://ko-fi.com/exenye
+
+Categories:
+- General: Workflow and project management tools
+- Item: Media item manipulation and organization
+- Region: Region and marker management
+- Tools: Advanced UI-based tools (require ReaImGui)
+
+Most scripts are free to use, modify and distribute. Tools category contains copyrighted professional tools.
+
+Requirements for UI Tools:
+- REAPER v6.0 or higher
+- ReaImGui extension
+- SWS/S&M Extensions (for some features)
+
+Installation:
+1. Install ReaImGui through ReaPack
+2. Import this repository URL in ReaPack
+3. Browse and install desired scripts]]></description>
+  </metadata>
+</index>
