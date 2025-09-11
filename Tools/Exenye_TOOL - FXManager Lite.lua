@@ -1,8 +1,9 @@
 --[[
+    @version 1.1
+    @author Exenye
     Script: Exenye_TOOL - FX Manager Lite
-    Author: Exenye
     Description: FX Manager with multi-selection, copy/paste and delete functionality for track effects
-    Version: 1.1
+    
     
     Copyright (C) 2024 [Exenye / Wieland Müller]. All rights reserved.
     For licensing and inquiries, contact [wieland@exenye.com].
