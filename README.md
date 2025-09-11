@@ -11,7 +11,7 @@ A collection of professional-grade ReaScript tools for REAPER, focusing on intui
 ## Repository Installation
 
 ### Automatic Installation (Recommended)
-1. Copy this repository URL: https://github.com/Exenye/exenye_scripts/raw/main/index.xml
+1. Copy this repository URL: https://raw.githubusercontent.com/Exenye/exenye_scripts/main/index.xml
 2. Open REAPER
 3. Go to **Extensions > ReaPack > Import repositories**
 4. Paste the URL and click **OK**
