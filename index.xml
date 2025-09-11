@@ -166,7 +166,7 @@
     </reapack>
 
     <reapack name="Exenye_TOOL - FXManager Lite.lua" type="script" desc="FX Manager with multi-selection, copy/paste and delete functionality">
-      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+      <version name="1.1" author="Exenye" time="2024-12-19T00:00:00Z">
         <changelog><![CDATA[Initial release]]></changelog>
         <source main="main">https://github.com/Exenye/exenye_scripts/raw/main/Tools/Exenye_TOOL%20-%20FXManager%20Lite.lua</source>
       </version>
