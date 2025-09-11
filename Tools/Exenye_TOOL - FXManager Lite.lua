@@ -371,6 +371,12 @@ local function showFXManager()
                 else
                     trackInfo = trackName .. " (" .. currentTargetType .. ")"
                 end
+                
+                -- Begrenze die Länge des Track-Infos, um die Fensterbreite zu kontrollieren
+                local maxLength = 30-- Maximale Anzahl Zeichen
+                if string.len(trackInfo) > maxLength then
+                    trackInfo = string.sub(trackInfo, 1, maxLength - 3) .. "..."
+                end
             end
             reaper.ImGui_Text(ctx, "Current: " .. trackInfo)
 
