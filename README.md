@@ -52,7 +52,6 @@ Media item manipulation and organization - **Free to use, modify and distribute*
 Region and marker management - **Free to use, modify and distribute**
 - Sound design variation counting
 - Region expansion tools
-- UCS Cat ID Swap Randomizer
 
 ### Track (3 scripts)
 Track management and coloring tools - **Free to use, modify and distribute**
