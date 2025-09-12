@@ -26,7 +26,7 @@ A collection of professional-grade ReaScript tools for REAPER, focusing on intui
 ## Requirements
 
 ### Basic Scripts
-Most scripts in General, Item, and Region categories work with:
+Most scripts in General, Item, Region, and Track categories work with:
 - **REAPER** v6.0 or higher
 
 ### UI Tools (Tools Category)
@@ -39,10 +39,9 @@ All UI-based scripts require:
 
 ## Script Categories
 
-### General (5 scripts)
+### General (4 scripts)
 Workflow and project management tools - **Free to use, modify and distribute**
 - Toggle looping for all project tabs
-- Rainbow track coloring
 - Time selection cropping (with/without empty track deletion)
 - Batch rendering of all project tabs
 
@@ -59,6 +58,12 @@ Region and marker management - **Free to use, modify and distribute**
 - Sound design variation counting
 - Region expansion tools
 - UCS Cat ID Swap Randomizer
+
+### Track (3 scripts)
+Track management and coloring tools - **Free to use, modify and distribute**
+- Rainbow track coloring
+- Smart auto color for folders with harsh colors
+- Smart auto color for folders with subtle colors
 
 ### Tools (3 scripts)
 Advanced UI-based professional tools - **Copyright protected**
@@ -98,8 +103,8 @@ Source replacement tool for media items
 
 ## License Information
 
-### Free Scripts (21 scripts)
-Categories: General, Item, Region
+### Free Scripts (22 scripts)
+Categories: General, Item, Region, Track
 **License:** Free to use, modify and distribute
 
 ### Professional Tools (3 scripts)  
@@ -118,7 +123,7 @@ If you find these tools useful, consider supporting development:
 
 ### v1.0 (December 2024)
 - Initial repository release
-- 24 total scripts across 4 categories
+- 25 total scripts across 5 categories
 - Professional UI tools with ReaImGui integration
 - Comprehensive workflow optimization tools
 - Modern dark theme UI design
