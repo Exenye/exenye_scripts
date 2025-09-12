@@ -18,11 +18,6 @@ A collection of professional-grade ReaScript tools for REAPER, focusing on intui
 5. Go to **Extensions > ReaPack > Browse packages**
 6. Search for "Exenye" to find all available tools
 
-### Manual Installation
-1. Download the desired script files
-2. Place them in your REAPER Scripts folder
-3. Refresh the Actions list in REAPER
-
 ## Requirements
 
 ### Basic Scripts
