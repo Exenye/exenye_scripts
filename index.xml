@@ -9,13 +9,6 @@
       </version>
     </reapack>
 
-    <reapack name="Exenye_GENERAL - Change the color of all tracks to a rainbow pattern.lua" type="script" desc="Colors all tracks in the current project with a rainbow gradient">
-      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
-        <changelog><![CDATA[Initial release]]></changelog>
-        <source main="main">https://github.com/Exenye/exenye_scripts/raw/main/General/Exenye_GENERAL%20-%20Change%20the%20color%20of%20all%20tracks%20to%20a%20rainbow%20pattern.lua</source>
-      </version>
-    </reapack>
-
     <reapack name="Exenye_GENERAL - Delete all items and regions outside of time selection and delete empty tracks.lua" type="script" desc="Crop to time selection, keep original positions and delete empty tracks">
       <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
         <changelog><![CDATA[Initial release]]></changelog>
@@ -152,6 +145,30 @@
       <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
         <changelog><![CDATA[Initial release]]></changelog>
         <source main="main">https://github.com/Exenye/exenye_scripts/raw/main/Region/Exenye_REGION%20-%20Expand%20all%20regions%20by%20custom%20time%20amount.lua</source>
+      </version>
+    </reapack>
+  </category>
+
+  <!-- TRACK SCRIPTS -->
+  <category name="Track">
+    <reapack name="Exenye_TRACK - Change the color of all tracks to a rainbow pattern.lua" type="script" desc="Colors all tracks in the current project with a rainbow gradient">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">https://github.com/Exenye/exenye_scripts/raw/main/Track/Exenye_TRACK%20-%20Change%20the%20color%20of%20all%20tracks%20to%20a%20rainbow%20pattern.lua</source>
+      </version>
+    </reapack>
+
+    <reapack name="Exenye_TRACK - Smart auto color all folders within project with harsh colors.lua" type="script" desc="Smart auto color all folders within project with harsh colors">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">https://github.com/Exenye/exenye_scripts/raw/main/Track/Exenye_TRACK%20-%20Smart%20auto%20color%20all%20folders%20within%20project%20with%20harsh%20colors.lua</source>
+      </version>
+    </reapack>
+
+    <reapack name="Exenye_TRACK - Smart auto color all folders within project with subtle colors.lua" type="script" desc="Smart auto color all folders within project with subtle colors">
+      <version name="1.0" author="Exenye" time="2024-12-19T00:00:00Z">
+        <changelog><![CDATA[Initial release]]></changelog>
+        <source main="main">https://github.com/Exenye/exenye_scripts/raw/main/Track/Exenye_TRACK%20-%20Smart%20auto%20color%20all%20folders%20within%20project%20with%20subtle%20colors.lua</source>
       </version>
     </reapack>
   </category>
